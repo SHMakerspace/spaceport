@@ -25,7 +25,7 @@ The PCBs are designed in EagleCAD and are available in a separate repo here: [PB
  
 The choice of 2 PCBs with RJ45 connectivity was taken so that the controller can be easily mounted in a location that cannot be accessed (and therefore not tampered with) whilst the reader can be mounted in a more open location. RJ45 was chosen due to it's low cost and relative density of connections.
 
-The controller and reader both have a 3D printed case and laser cut (although could also be 3D printed) lid. The casing has been designed in the free to use software Autodesk Fusion 360. Designs are available here: [Case Design](TBD)
+The controller and reader both have a 3D printed case and laser cut (although could also be 3D printed) lid. The casing has been designed in the free to use software Autodesk Fusion 360. Designs are available here: [Controller](http://a360.co/2D648rg) [Reader](http://a360.co/2k06he2)
 
 The client firmware has available in a separate repos here: [WEMOS firmware repo](https://github.com/SHMakerspace/spaceportclient)
 
@@ -56,6 +56,6 @@ Links
 ----
 - [Documentation](TBD)
 - [PBC Repo](https://github.com/SHMakerspace/spaceportpcb)
-- [Case Design](TBD)
+- Case Design: [Controller](http://a360.co/2D648rg) [Reader](http://a360.co/2k06he2)
 - [WEMOS firmware repo](https://github.com/SHMakerspace/spaceportclient)
 - [Slack Client repo](https://github.com/SHMakerspace/spaceportslackbot)
