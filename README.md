@@ -47,15 +47,15 @@ There is also an API endpoint to register new tags, ready for a Spaceport admini
 
 Spaceport emits all valid access requests to a **MQTT server** of the administrators choosing, this is to fulfil one of the core Spaceport principles of being self contained, whilst exposing actions for other distributed applications to interact with ~ this allows anyone to create all kinds of weird and wonderful applications that react to Spaceport actions without having to touch the Spaceport application (We have visions of all kinds of bells, whistles and das blinken lights when users enter the makerspace).
 
-Currently there is simple application that emits states to a Slack channel as Surrey and Hampshire Makerspace use slack as one of their communication mediums, repo for the slack app here: [Slack Client repo](TBD)
+Currently there is simple application that emits states to a Slack channel as Surrey and Hampshire Makerspace use slack as one of their communication mediums, repo for the slack app here: [Slack Client repo](https://github.com/SHMakerspace/spaceportslackbot)
 
 The Spaceport server was developed on an Orange Pi Zero due to it's low cost and inclusion of ethernet connectivity, but it could run on just about any linux computer (Including Raspberry Pi).
 ![Oraage PI](https://lh3.googleusercontent.com/i3jcFeCk2dv8WiQ7clg9oKKtpZ_jgW00bcSXK1LS2XLQVpsLF_2ogvGa3PImhUGIllPa0TT2TkdO3jSTPfvEu2PS2aaB4SOUQmpQQIfN8DTql2bxy8L7icSEZJFrf3sFa40NoXpiBs-y1vdfiEczDpyaqEDI3S0RUz0EVQm29i8-TJfOx9FDBBOkTx-9ROD2wb2YKuA4_LQ-Ff7AwTUtHaq5DcCHMt1LzroTy5Ja2xv4Ttv3UKhMZO8invhA0LMj_i3svlBsUSi6ZEDzl6sSfCwk9iYI8oEo73p0v_QL87bf00a5uvVfZggd7jYYM1UYszghEW5013sL5Hwld1EPvu8paIUvZ5TzqXlDAqpGqeqmFZnUFHk6EA60XCD6h1CwaQBb9mgTepFJO1AkT7QNIq0Oq7wO_s0TmjCp0zxVPohvR__laZmND8zmPYtaarYY0RBtCWPJvwzHoHv49-2cVgSXVhjOQ73EmV25JT8D0wUpC8eoUmbv_s0nTizNooaJN3RzceTIN0oZwwOMP5TXefyzEv26zj1TPtnOXk0bHbEz6VTavInb3UcebidftJ-3J_Vhv22GfghGlIqHdW7YQ8GRHu3b1yEvOblzZgM=w1257-h711-no)
 
 Links
 ----
-[Documentation](TBD)
-[PBC Repo](TBD)
-[Case Design](TBD)
-[WEMOS firmware repo](https://github.com/SHMakerspace/spaceportclient)
-[Slack Client repo](TBD)
+- [Documentation](TBD)
+- [PBC Repo](TBD)
+- [Case Design](TBD)
+- [WEMOS firmware repo](https://github.com/SHMakerspace/spaceportclient)
+- [Slack Client repo](https://github.com/SHMakerspace/spaceportslackbot)
