@@ -27,7 +27,7 @@ The choice of 2 PCBs with RJ45 connectivity was taken so that the controller can
 
 The controller and reader both have a 3D printed case and laser cut (although could also be 3D printed) lid. The casing has been designed in the free to use software Autodesk Fusion 360. Designs are available here: [Case Design](TBD)
 
-The client firmware has available in a separate repos here: [WEMOS firmware repo](TBD)
+The client firmware has available in a separate repos here: [WEMOS firmware repo](https://github.com/SHMakerspace/spaceportclient)
 
 ![PCBs](https://lh3.googleusercontent.com/g8-eCmGsM58siEUREAJQxgl26oSliJ-2NyPW6FOMdzvt_YHkEdBsc1cU5JWBC_lprGO7F8F3ThcDM_IRJHGNp3lH1DRBhw5yG0vpXb5wSVXzZ42BomTwUZnGATMCjlY0k3_H5Yt0mAFraEeLzEeb6mTGwxtiBvsvU_cfevI-thxgwVujKMEgD9XBA_XJLVQzAwf8d0RPYAYVQGPrfWlY_laGTWThU_avMRDu92ImBItWaK0IjaGnYVnYxnggVs4SwaaNuJpahqiSyLMhoGB9ldxzHuoans6Ikqi9QLDSBORbWw5_zX3XY1whjGAgJjJJpDNsrc3af8auh3d60lcXBpei0LkKFs6z0Sxrel0nS1Bge0rzmwRRYahMxtU5Eh58kv9pTjtxhfeFLGm6uNuZOdXpnKjWtL1RWKSHmZ5YliH4tDq5j5zixpuK-VZTfNrQDeJjGsRYbCt8ifrUpd-hSE3mDRIExDh6mEqFzbzMBJwEUJ4LLboPXsA984RTtAiPNChG5fLxXXG1uoGWbgZUuVMKg13lt4O5OBFcVLWfw3khb7lOyGHchTCrdPyaUzFsNmHRzKGXfn6DehrlLwFKzJGggAWy8papKypQXUm6yjXvfaEbS-d9mdQl7Ckjdo1TqbX3iGQynoajx5urhemQ9bXHlX8NNMWd=w1257-h711-no)
 ![PCBs connected](https://lh3.googleusercontent.com/SmRcyuGPhfHDCFuXUq3HyAAxzpvi46Vhj20UENNceX2iJmsTpmnlcxX0mSTV7oRemNxiCAciB0nkxVafn33NYWc1HM0UNIRGA0VF3eEF7kA2_lkThV6u29iYwtv58UHvreQ84RdqeEWWulvHeNNJjnFHg_jtr67aVf3ZV-DUsfOmCH1r2S6oP8TD1sB4QGI1pXwvafTJB06vM0nX8yS5zvueL55ybjpmloJzJE-IEJiSXSPYPqkAAs7Nbkx4VlgX-7DFz5PgABHwOgCT3eAdcpAJAE3n3BzAAE0b7GR6lzaCRFfLjwI62amUobbnEfVLvyD1ZQIFKFmfiGNQiYndCQ0hrGDRzkn4H-sUfZFoC_l35k1faOcroK_PJyuLEWOl0WVtaefAGl3kLLiFtJ6ve14sBVBkDZM1N706B_lrCuvK4th9nXB6tgH_6QzW_GWjhQnYI3Xm5TCzS54YNJXsRCGFRwXm47n8eHd8Lbt9TZvyDGAlNPTkqt6nTkWqigKjnnlkVO9D8STUuHtQq38kXY4hXW33JdA7hyP5OEGOFgytJzsq30v9VIxgXpxPrPjCRB4-wBIoPLbyjydu1hVe5mOkrkVyWeGX-5OuvFs-pT_HbesU5BQzoTBSnDO6zgx5ccHTq1Gu1mE2ZqL9qXxVkH4OmUbEUnBB=w1257-h711-no)
@@ -57,5 +57,5 @@ Links
 [Documentation](TBD)
 [PBC Repo](TBD)
 [Case Design](TBD)
-[WEMOS firmware repo](TBD)
+[WEMOS firmware repo](https://github.com/SHMakerspace/spaceportclient)
 [Slack Client repo](TBD)
