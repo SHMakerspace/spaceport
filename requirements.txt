@@ -1,0 +1,7 @@
+Django==1.11.8
+djangorestframework
+paho-mqtt
+slackclient
+django-after-response
+mysqlclient
+gunicorn
