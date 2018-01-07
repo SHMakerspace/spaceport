@@ -21,7 +21,7 @@ Client
 
 The Client consists of 2 PCBs (Spaceport controller and Spaceport reader) these allow mounting of the off the shelf PCBs (Wemos and RC522), power management (a 12V DC power supply is the only power input required). Control of the door lock is via MOSFETs (configurable for a fail open or fail closed door lock) and connectivity between the controller and reader (RJ45). 
 
-The PCBs are designed in EagleCAD and are available in a separate repo here: [PBC Repo](TBD)
+The PCBs are designed in EagleCAD and are available in a separate repo here: [PBC Repo](https://github.com/SHMakerspace/spaceportpcb)
  
 The choice of 2 PCBs with RJ45 connectivity was taken so that the controller can be easily mounted in a location that cannot be accessed (and therefore not tampered with) whilst the reader can be mounted in a more open location. RJ45 was chosen due to it's low cost and relative density of connections.
 
@@ -55,7 +55,7 @@ The Spaceport server was developed on an Orange Pi Zero due to it's low cost and
 Links
 ----
 - [Documentation](TBD)
-- [PBC Repo](TBD)
+- [PBC Repo](https://github.com/SHMakerspace/spaceportpcb)
 - [Case Design](TBD)
 - [WEMOS firmware repo](https://github.com/SHMakerspace/spaceportclient)
 - [Slack Client repo](https://github.com/SHMakerspace/spaceportslackbot)
